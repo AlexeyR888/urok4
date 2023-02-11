@@ -16,8 +16,6 @@
 #
 # nick = Child()
 
-
-
 class Hello_world:
     hello = "Hello"
     _hello = "_hello"
